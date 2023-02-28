@@ -1,6 +1,4 @@
-<img align="right" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" alt="Gif gatinho">
-
-### Desafio: Criando o footer da página
+### Desafio: Criando a Main e o Footer da página Desenvolve - Grupo Boticário e Alura
 <hr>
 
 
@@ -10,3 +8,7 @@
 Compartilhe seus resultados com seus colegas! 
 
 Bons estudos! 😊💕
+
+-----
+
+A maior dificuldade foi posicionar o botão "Conferir ementa" no final do card. O radapé foi um pouco trabalhoso, mas separando os elementos com DIVs tudo ficou na sua posição ideal. Conforme dica na mentoria do grupo do dia 23/02/2023 foi utilizado o <a href> no lugar dos botões.
